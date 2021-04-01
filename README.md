@@ -1,4 +1,4 @@
-# Apetresc Magic
+# Magic Taps
 
 ## How do I install these formulae?
 
